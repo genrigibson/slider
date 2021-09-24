@@ -1,0 +1,1 @@
+Slider landing made on HTML, CSS & JS Inspired by V. Minin https://genrigibson.github.io/slider/
